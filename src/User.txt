@@ -1,0 +1,2 @@
+(1001, 'Nguyen Trong Nghia', 'nghia', 'Zet411632', 'zetnguyen17@gmail.com', 'user'),
+(1002, 'Duong Khanh Duy', 'duy', 'Duy03032002', 'kingstonduy.duong@gmail.com', 'user')
