@@ -9,7 +9,7 @@ public class User {
     public User(int id, String userFullName, String userUserName, String userPassword, String userEmail, String userRole) {
         this.id = id;
         this.userFullName = userFullName;
-        this.userUserName = userFullName;
+        this.userUserName = userUserName;
         this.userPassword = userPassword;
         this.userEmail = userEmail;
         this.userRole = userRole;
@@ -19,7 +19,7 @@ public class User {
         return "User{" +
                 "id=" + id +
                 ", name='" + userFullName + '\'' +
-                ", username='" + userFullName + '\'' +
+                ", username='" + userUserName + '\'' +
                 ", password='" + userPassword + '\'' +
                 ", email='" + userEmail + '\'' +
                 ", role='" + userRole + '\'' +
